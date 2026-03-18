@@ -1,12 +1,12 @@
 Hi, I'm Lesedi Lebotsa
 
-A second year Software Engineering student focused on Cloud Infrastructure, Security, and Systems Engineering.
+A second year Software Engineering student focused on Cloud Infrastructure and Systems Engineering.
 
 Currently building strong foundations in:
 
 - Python (Automation, CLI tools, backend fundamentals)
 - Linux system administration
-- Networking fundamentals (TCP/IP, DNS, troubleshooting)
+- Networking fundamentals (TCP/IP, DNS, troubleshooting and CompTIA Network+ prep)
 - AWS Cloud Infrastructure (preparing for Solutions Architect Associate)
 
  Current Focus
@@ -17,15 +17,19 @@ Currently building strong foundations in:
 - Preparing for AWS certification
 - Maintaing good grades
 
- Projects (In Progress)
+ Projects 
+ - Store Management System API
+ - Concurrent Web Scraper with logging
+ - Fullstack Fitness app (In Progress)
 
 More advanced infrastructure and cloud security projects coming soon.
 
  Career Goals
 
 Cloud Engineer | Security Engineer | Systems Engineer  
-Interested in defence, healthcare, and cloud infrastructure engineering roles.
+Interested in Site-Riliability, Software Engineering, and cloud infrastructure engineering roles.
 
  Expected Graduation
 
 BSc IT (Software Engineering), 2027
+Lede.lebotsa1598@gmail.com
